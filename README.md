@@ -33,6 +33,6 @@ GET /tags : Retrieves a list of all tags.<br>
 GET /tags/search : Searches for tags by partial matching based on a search query.<br>
 GET /tags/note/{note_id} : Retrieves tags associated with the specified note ID.<br>
 
-- **Database Schema:**
+- **Object Model / Database Schema:**
 
 ![SemaZaNotes](https://github.com/DataBora/notes-rest-app/assets/94956337/399047bc-9474-463d-be55-b1e697eb274b)
