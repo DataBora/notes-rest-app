@@ -1,4 +1,4 @@
-# RESTful Application for Notes
+# RESTful Notes Application
 
 ## Technologies Used
 - **Programming Languages:** Java (version 20)
