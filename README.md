@@ -30,8 +30,8 @@ GET /notes/{id} : Retrieves note details for the specified note ID.<br>
 POST /create_tag/{note_id} : Creates a new tag and associates it with the specified note ID.<br>
 DELETE /notes/{note_id}/tags/{tag_id} : Deletes the tag with the specified tag ID associated with the specified note ID.<br>
 GET /tags : Retrieves a list of all tags.<br>
-GET /tags/search : Searches for tags by partial matching based on a search query.
-GET /tags/note/{note_id} : Retrieves tags associated with the specified note ID.
+GET /tags/search : Searches for tags by partial matching based on a search query.<br>
+GET /tags/note/{note_id} : Retrieves tags associated with the specified note ID.<br>
 
 - **Database Schema:**
 
